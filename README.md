@@ -1,2 +1,2 @@
 # object-detection
-detecting using python
+detecting using python language 
